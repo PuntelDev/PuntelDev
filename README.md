@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: ivapuntel@gmail.com
-- 😄 Pronouns: He/Him 
+- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Javascript
+- 📫 Email: ivapuntel@gmail.com
 
 
 
